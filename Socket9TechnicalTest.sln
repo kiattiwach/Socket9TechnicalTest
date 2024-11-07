@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket9TechnicalTest", "Socket9TechnicalTest\Socket9TechnicalTest.csproj", "{59843E1D-07F4-47D2-A043-BEAE6D791742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59843E1D-07F4-47D2-A043-BEAE6D791742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59843E1D-07F4-47D2-A043-BEAE6D791742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59843E1D-07F4-47D2-A043-BEAE6D791742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59843E1D-07F4-47D2-A043-BEAE6D791742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF483B6D-27D0-4C21-98E8-034D4D4E30F4}
+	EndGlobalSection
+EndGlobal
